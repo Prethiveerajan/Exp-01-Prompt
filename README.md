@@ -1,6 +1,4 @@
-**README**
-
-**Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)**
+**Ex-01 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)**
 
 **AIM:**
 
